@@ -143,3 +143,4 @@ def get_printer_status(printer_id):
 
 if __name__ == '__main__':
     app.run(debug=True)
+    #It works
